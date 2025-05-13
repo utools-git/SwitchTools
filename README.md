@@ -1,5 +1,5 @@
 # SwitchTools
 
-* A collection of tools that I make that helps me with Nintendo Switch homebrew Development. (Mainly Unity Stuff)
+* A collection of tools that I make that helps me with NX homebrew Development. (Mainly Unity Stuff)
 
 #opensourceforever
