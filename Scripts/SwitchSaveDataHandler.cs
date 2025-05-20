@@ -35,7 +35,7 @@ using NnSaveData = nn.fs.SaveData;
 
 public abstract class SwitchSaveDataHandler : MonoBehaviour
 {
-    protected const string MOUNT_NAME = "BaldiPlusSave";
+    protected const string MOUNT_NAME = "NXGameSave";
     protected nn.account.Uid userId;
     protected bool isMounted = false;
 
